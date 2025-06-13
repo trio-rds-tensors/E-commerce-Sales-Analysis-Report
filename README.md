@@ -1,4 +1,5 @@
 # E-commerce-Sales-Analysis-Report
-Team Member : Dipali , Sudipta &amp; Riyajul 
-🌍<h3><b><u>Project Overview : </u></b></h3>
-<p> This project focuses on analyzing product-level sales data from an ecommerce platform to uncover key trends, patterns, and customer preferences over a one-year period. The dataset includes detailed information about various products, including their category, price, review scores, review counts, and monthly sales for 12 months. The primary objective of this analysis is to gain insights into which product categories perform best, identify sales trends across the year, examine the relationship between customer reviews and sales, and understand pricing impact on performance. We also aim to identify high-performing products and those that may need attention or improvement. We used data analysis techniques and visualizations to explore the dataset, including bar charts, line graphs, and category-wise comparisons. This approach helps in making the sales data more understandable and actionable for ecommerce stakeholders. The insights derived can assist in better inventory planning,marketing strategies, and customer satisfaction improvements.</p>
+<b>Team Member :</b> <i>Dipali , Sudipta &amp; Riyajul </i>
+<br><b>Institute :</b> `Yogoda Satsanga Palpara Mahavidyalava`
+<br><b>Instractor :</b><i>Sourav Goswami</i>
+<br><b>Internship Organization :</b> `Ardent Computech PVT LTD` 
